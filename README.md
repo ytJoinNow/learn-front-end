@@ -8,3 +8,8 @@
 >5)Git下载下来后，在OffLine状态下可以看到所有的Log,SVN不可以。<br>
 >6)刚开始用时很狗血的一点，SVN必须先Update才能Commit,忘记了合并时就会出现一些错误。<br>
 >7)...[原文链接](https://www.cnblogs.com/mtl-key/p/6902627.html)
+
+# 掘金
+> [我的掘金地址](https://juejin.im/user/5bd83e6c5188252a784d22cb/collections)
+
+
