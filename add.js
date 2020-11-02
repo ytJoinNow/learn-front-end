@@ -1,0 +1,9 @@
+class NameSpace{
+    constructor(){
+
+    }
+
+    addSpace(){
+        
+    }
+}
